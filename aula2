@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-br">
+<head> 
+
+<title>Portifolio</title>
+</head>
+
+<header>
+<main>
+
+<body>
+<h1>Aluno: Gabriel dos Santos da Luz</h1
+<p> 
+<ul>
+<li>Email: gabrieldaluz918@gmail.com</li>
+<li>Curso: Engenharia de Software</li>
+<li>Disciplina Front End</li>
+<li>Professor Sidney Leandro da Silva</li>
+</ul>
+<h1> Equipe</h1>
+<ol>
+<li>Gabriel Dos Santos Da luz</li>
+<li>Lucas Martins Ferreira Santana</li>
+</ol>
+<dl>
+<dt><h2>Html</h2>
+<dd>html1
+<dd>html2
+<dd>html3
+<dd>html4
+<dd>html5
+</dt>
+<dt><h2>Css</h2>
+<dd>css1
+<dd>css2
+</dt>
+</dl>
+</header>
+</main>
+</body>
+
+</html>
