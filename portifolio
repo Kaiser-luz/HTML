@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-br">
+<head> 
+<meta>
+<title>Portifolio</title>
+<link rel="stylesheet" href="estilo.css">
+
+</head>
+
+<header>
+<main>
+
+<body>
+
+<h1>Gabriel dos Santos Da luz</h1>
+
+<h2>gabrieldaluz918@gmail.com.br</h2>
+
+<h2>Engenharia de software</h2>
+<br>
+
+<h1>Apresentação</h1>
+<br>
+
+<p>o que eu mais gosto de estudar é
+gosto de estudar o python e estudar os jogos dos meus times de futebol
+<br>
+
+o que mais gosto de ler é
+gosto muito de ler livros sobre futebol
+<br>
+
+o que eu mais gosto de fazer é
+jogar futebol e programar</p>
+
+<img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png">
+</header>
+</main>
+<footer><h2>Tiktok GabrielSA
+<br>
+Instagram itsg4briel</h2></footer>
+</body>
+
+</html>
