@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="portifolio.css">    
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portifolio </title>
+</head>
+<body>
+<h1> Eleve seu negócio digital</h1>
+<br><h1>  a um outro nível com um
+<h1 id="h1__azul"><strong>Front-end de qualidade!</strong></h1>
+<p>Olá! Sou Dua lipa eilish, desenvolvedora Front-end
+<br> com especialidade em React, HTML e CSS.
+<br> Ajudo pequenos negócios e designers a 
+<br>colocarem em prática boas ideias. Vamos
+<br> conversar?.
+<br>
+<img src="" alt="Foto de Dua Lipa trabalhando">
+</body>
+</html>
