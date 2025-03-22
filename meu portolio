@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio</title>
+    <link rel="stylesheet" href="portifolio.css">    
+</head>
+<body>
+
+    <h2 id="h1__ver"><span>Gabriel dos Santos Da Luz</span>
+    <strong>Desenvolvedor de Qualidade</strong></h2>
+
+    <p>
+        Bem-vindo ao meu portfólio! Sou Gabriel dos Santos da Luz, estudante de Engenharia de Software, 
+        <br>apaixonado por tecnologia, inovação e desenvolvimento de soluções inteligentes.
+    </p>
+    <p>
+        Aqui, você encontrará projetos, experiências e habilidades que fiz na minha jornada no mundo da programação e da engenharia de software.
+        <br> Meu objetivo é transformar ideias em código eficiente, sempre buscando aprendizado contínuo e aprimoramento técnico.
+    </p>
+    <p>
+        Fique à vontade para explorar meus trabalhos e entrar em contato!
+    </p>
+
+    <br>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgu6aRF0L33N7hyUnzZoPKk6oykDACoUx5g&s" alt="Foto de Gabriel">
+    
+    <div class="social-buttons">
+        <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" class="btn linkedin">LinkedIn</a>
+        <a href="https://github.com/seu-usuario" target="_blank" class="btn github">GitHub</a>
+        <a href="https://www.instagram.com/seu-usuario" target="_blank" class="btn instagram">Instagram</a>
+    </div>
+    
+</body>
+</html>
