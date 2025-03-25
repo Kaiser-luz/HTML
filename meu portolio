@@ -9,7 +9,7 @@
 <body>
 
     <h2 id="h1__ver"><span>Gabriel dos Santos Da Luz</span>
-    <strong>Desenvolvedor de Qualidade</strong></h2>
+    <strong>Futuro Desenvolvedor</strong></h2>
 
     <p>
         Bem-vindo ao meu portfólio! Sou Gabriel dos Santos da Luz, estudante de Engenharia de Software, 
@@ -28,9 +28,9 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgu6aRF0L33N7hyUnzZoPKk6oykDACoUx5g&s" alt="Foto de Gabriel">
     
     <div class="social-buttons">
-        <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" class="btn linkedin">LinkedIn</a>
-        <a href="https://github.com/seu-usuario" target="_blank" class="btn github">GitHub</a>
-        <a href="https://www.instagram.com/seu-usuario" target="_blank" class="btn instagram">Instagram</a>
+        <a href="https://www.linkedin.com/in/gabriel-da-luz-a10a6a322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="btn linkedin">LinkedIn</a>
+        <a href="https://github.com/Kaiser-luz" target="_blank" class="btn github">GitHub</a>
+        <a href="https://www.instagram.com/itsg4briel_" target="_blank" class="btn instagram">Instagram</a>
     </div>
     
 </body>
