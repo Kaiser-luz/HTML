@@ -1,10 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: black;
     color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h2 {
     color: white;
+    margin: 10px 0;
 }
 
 #h1__ver {
@@ -15,17 +23,23 @@ strong {
     color: blue;
     border: 4px solid blue;
     padding: 4px;
+    transition: 0.3s ease-in-out;
 }
-span{
+
+span {
     color: red;
     border: 4px solid red;
     padding: 4px;
+    transition: 0.3s ease-in-out;
 }
+
 img {
-    width: 300px; 
+    width: 100%;
+    max-width: 300px; 
     height: auto; 
     border-radius: 10px; 
 }
+
 .social-buttons {
     margin-top: 20px;
     text-align: center;
@@ -33,14 +47,16 @@ img {
 
 .btn {
     display: inline-block;
-    padding: 8px 20px;
-    margin: 8px;
-    font-size: 16px;
+    padding: 18px 26px;
+    margin: 10px;
+    font-size: 18px;
     font-weight: bold;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius: 6px;
     transition: 0.3s;
+    text-align: center;
 }
+
 
 .linkedin {
     background-color: #020092;
@@ -57,7 +73,20 @@ img {
     color: white;
 }
 
-.btn:hover {
+.btn:hover, .btn:focus {
     opacity: 0.8;
+    transform: scale(1.05);
 }
 
+@media (max-width: 768px) {
+    .btn {
+        padding: 12px 18px;
+        font-size: 16px;
+    }
+    img {
+        max-width: 100%;
+    }
+    .social-buttons {
+        text-align: center;
+    }
+}
